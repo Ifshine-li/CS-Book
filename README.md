@@ -1,13 +1,10 @@
 计算机类的书籍那么贵，作为一个几个小时看完一本书且机不离身的程序员，天天买纸质书是不可能的了，所以对电子书的需求量还是挺多的。为了方便广大的小伙伴也能方便找到对应的电子书，我花费洪荒之力从各个搜索网站收集了几百本常用的电子书。
 
-> 宣传一个我看过的优秀的微信公众号：这个公众号专注于写**数据结构+算法**，**计算机基础**（如计算机网络+操作系统+Linux+MySQL）等文章，欢迎广大用户扫一扫关注一波，我想你一定让你有所收获。
-
-![我的公众号ID：di201805，搜索搜索这个ID即可找到](https://github.com/iamshuaidi/CS-Book/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+有人反馈百度云下载太慢，所以我部分书籍提供了蓝奏云下载，大家如果觉得有帮助，可以偷偷收藏起来哈，不过蓝奏云对文件的大小有限制，我开了 VIP，但还是只能上传 100 多MB 的文件。
 
 > **重要说明**：**如果目录无法跳转的话，直接拉下去就可以了**，这些书籍都是在同一个页面的，我只是方便大家找到对应的，弄了一个**页内目录**，不过有部分读者反馈他跳转不了（手机是绝对跳转不了的了）。
 
-
-
+- [大神刷题笔记](#大神刷题笔记)
 - [数据结构与算法相关书籍](#数据结构与算法相关书籍)
 - [计算机基础](#计算机基础)
   - [操作系统](#操作系统)
@@ -19,7 +16,7 @@
   - [2、数据分析与爬虫](#2数据分析与爬虫)
 - [Linux](#linux)
 - [C语言](#c语言)
-- [C  ](#c)
+- [C](#c)
 - [前端](#前端)
 - [人工智能](#人工智能)
 - [设计模式](#设计模式)
@@ -30,12 +27,17 @@
 - [数据库](#数据库)
 - [Go](#go)
 - [中间件](#中间件)
-- [面试相关](#面试相关)
 - [未分类书籍](#未分类书籍)
 - [Git](#git)
 - [免责声明](#免责声明)
 
-
+# 大神刷题笔记
+- Leetcode 1300道算法题解    [蓝奏云直接下载(推荐)](https://wws.lanzous.com/iQUI9kdrgqh)
+- labuladong 的算法小抄      [蓝奏云直接下载(推荐)](https://wws.lanzous.com/i44Bnkdrkgb)
+- 阿里巴巴Java面试问题大全    [蓝奏云直接下载(推荐)](https://wws.lanzous.com/iZIZlkbi45i)       [百度云下载链接](https://pan.baidu.com/s/1tbd8N88ae-O0xsm6RTJIag)  密码:8xzm
+- 程序员面试宝典       [蓝奏云直接下载(推荐)](https://wws.lanzous.com/ixTE0kbi4ad)  [百度云下载链接](https://pan.baidu.com/s/1LilCd-QIcVgZ1uQyFWMaWw)  密码:ko62
+- 大厂面试真题       [蓝奏云直接下载(推荐)](https://wws.lanzous.com/idfFXkbi4cf)   [百度云下载链接](https://pan.baidu.com/s/1631WVa3Fhf2wOpdZX_ou2g)  密码:gu92
+- Java面试突击       [蓝奏云直接下载(推荐)](https://wws.lanzous.com/izYukkbi4gj) [百度云下载链接](https://pan.baidu.com/s/1bAZS8KiUNF0lOt-R0UBOyg)  密码:h44t
 
 # 数据结构与算法相关书籍
 
@@ -249,15 +251,6 @@
 
 * redis实战          [百度云下载链接](https://pan.baidu.com/s/13Y-Uk2HmV1Y5TLec4J20aQ)  密码:ro48
 
-
-
-# 面试相关
-
-- 阿里巴巴Java面试问题大全       [百度云下载链接](https://pan.baidu.com/s/1tbd8N88ae-O0xsm6RTJIag)  密码:8xzm
-- 程序员面试宝典       [百度云下载链接](https://pan.baidu.com/s/1LilCd-QIcVgZ1uQyFWMaWw)  密码:ko62
-- 大厂面试真题       [百度云下载链接](https://pan.baidu.com/s/1631WVa3Fhf2wOpdZX_ou2g)  密码:gu92
-- Java面试突击       [百度云下载链接](https://pan.baidu.com/s/1bAZS8KiUNF0lOt-R0UBOyg)  密码:h44t
-
 # 未分类书籍
 
 - 黑客与画家       [百度云下载链接](https://pan.baidu.com/s/1lEyXNK8W4a0vStIPHOihiA)  密码:uux2
@@ -277,5 +270,6 @@
 
 书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1326194964@qq.com
 
+[![Page Views Count](https://badges.toozhao.com/badges/01EMGX8NNAHHYKVNQAYHSE2G3K/green.svg)](https://badges.toozhao.com/badges/01EMGX8NNAHHYKVNQAYHSE2G3K/green.svg "Get your own page views count badge on badges.toozhao.com")
 
 
